@@ -1,3 +1,8 @@
 .Lernhilfelink{
-  color:blue; "font-family:'Candara',Times,serif; font-size: 100%"
+  font-family:'Candara',Times,serif;
+  font-size: 100%
+}
+
+.Lernhilfelink a{
+  color:green;
 }
