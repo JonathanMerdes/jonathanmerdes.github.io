@@ -1,0 +1,53 @@
+<html>
+
+  <title>
+  NWT lernen mit Jonathan M.
+  </title>
+
+<body>
+
+  <h1>
+    <b>
+        <p style="text-align: center; font-family:'Candara';color:darkblue">
+    NWT Lernhilfe</b><br/><h1>
+
+  <h2>
+  <p style= "text-align: center; font-family:'Candara';color:blue">
+  Grundlagen
+  </h2>
+
+  <h3>
+  <p style= "text-align: center; font-family:'Candara';color:lightblue">
+  von Jonathan aus Heidelberg
+</h3>
+  <p>
+
+    <figure>
+      <img class="imgzentirert" width= "500" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Neckarstaden_HD_KFG.JPG"></img>
+      <figcaption>Meine Schule, das <a href="http://www.kfg-heidelberg.de" style="color: blue">KFG</a> in Heidelberg</figcaption>
+    </figure>
+
+  <p><span style="font-family:'Comic Sans MS',Times,serif;color:dark grey; font-size: 100%">
+  Hallo, ich bin Jonathan M. vom <a style="color: blue" href="http://www.kfg-heidelberg.de">Kurf&uuml;rst-Friedrich-Gymnasium</a>  aus Heidelberg, bin in der 9. Klasse,<br/>
+  belege den Profilkurs NaturWissenschaften & Technik und m&ouml;chte euch gerne auf dieser Seite einiges erkl&auml;ren, <br/>
+  was man f&uuml;r die Themeneinheit "Orientierung im Gel&auml;nde" in der achten Klasse braucht.<br/>
+
+  <p>
+
+   <figure>
+     <img width="250" src="Sextant.png" alt="Der Sextant"/>
+     <figcaption>
+Der Sextant, eines der &auml;ltesten<br/>
+      Positionsbestimmungsger&auml;te
+     </figcaption>
+   </figure>
+
+  </p>
+
+</span>
+<span style="font-family:'Candara',Times,serif; font-size: 100%">
+
+<a style="color: red" href="https://www.youtube.com/user/jonremfcb">Mein Youtube-Kanal</a>
+</span>
+</body>
+</html>
